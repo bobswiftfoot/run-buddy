@@ -1,7 +1,7 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training servies
+A website that offers fitness training servies.
 
 ## Built With
 * HTML
@@ -12,3 +12,5 @@ https://bobswiftfoot.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Nathan Pfau
+
+### ©️2019 Run Buddy, Inc 
